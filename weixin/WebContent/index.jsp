@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>songren</title>
+<title>zixin</title>
 </head>
 <body>
-	欢迎访问我的网站 www.songren.com 
+	欢迎访问我的网站 www.zixin.com 
 </body>
 </html>
